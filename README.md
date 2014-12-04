@@ -30,5 +30,14 @@ https://github.com/johncarl81/parceler
 Android Annotations:
 https://github.com/excilys/androidannotations
 
+Reside Menu
+https://github.com/SpecialCyCi/AndroidResideMenu
+
+ViewHover
+https://github.com/daimajia/AndroidViewHover
+
+Shimmer 
+https://github.com/RomainPiel/Shimmer-android
+
 
 
