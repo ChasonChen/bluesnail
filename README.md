@@ -30,14 +30,19 @@ https://github.com/johncarl81/parceler
 Android Annotations:
 https://github.com/excilys/androidannotations
 
-Reside Menu
+Reside Menu(侧滑菜单)
 https://github.com/SpecialCyCi/AndroidResideMenu
 
 ViewHover
 https://github.com/daimajia/AndroidViewHover
 
-Shimmer 
+Shimmer (TextView光效)
 https://github.com/RomainPiel/Shimmer-android
+
+ViewAnimation(View动画)
+https://github.com/daimajia/AndroidViewAnimations
+
+
 
 
 
