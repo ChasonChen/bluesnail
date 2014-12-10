@@ -42,7 +42,8 @@ https://github.com/RomainPiel/Shimmer-android
 ViewAnimation(View动画)
 https://github.com/daimajia/AndroidViewAnimations
 
-
+ParallaxPager(视差滚动)
+https://github.com/prolificinteractive/ParallaxPager
 
 
 
