@@ -45,5 +45,6 @@ https://github.com/daimajia/AndroidViewAnimations
 ParallaxPager(视差滚动)
 https://github.com/prolificinteractive/ParallaxPager
 
-
+No Boring ActionBar
+http://flavienlaurent.com/blog/2013/11/20/making-your-action-bar-not-boring/
 
