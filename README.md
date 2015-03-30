@@ -50,3 +50,6 @@ http://flavienlaurent.com/blog/2013/11/20/making-your-action-bar-not-boring/
 
 Upload-Service
 https://github.com/alexbbb/android-upload-service
+
+Side Menu
+https://github.com/Yalantis/Side-Menu.Android
