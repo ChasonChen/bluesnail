@@ -71,7 +71,7 @@ https://github.com/rengwuxian/MaterialEditText
 发了MaterialEditText库，直接继承EditText，无需修改Java文件即能实现自定义控件颜色。
 
 4. Android-LollipopShowcase
-https://github.com/mikepenz/LollipopShowcase
+5. https://github.com/mikepenz/LollipopShowcase
 Android-LollipopShowcase是由来自奥地利的移动、后端及Web开发者Mike Penz所开发的演示应用，集中演示了新Material De-
 sign中所有的UI效果，以及Android Lollipop中其他非常酷炫的特性元素，比如Toolbar、RecyclerView、ActionBarDrawerTog-
 gle、Floating Action Button（FAB）、Android Compat Theme等。
